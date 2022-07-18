@@ -38,6 +38,7 @@ Results : To categorize a transaction as fraudulent or valid, four fraud detecti
 https://www.sciencepubco.com/index.php/ijet/article/view/9356
 ## Methods
 <img src="https://github.com/TheramReddy/Credit-Card-Fraud-Visualization/blob/main/Techniques_CreditFraud.png">
+
 ## Architechture
 <img src="https://github.com/TheramReddy/Credit-Card-Fraud-Visualization/blob/main/Architechture_CreditFraud.png">
 
